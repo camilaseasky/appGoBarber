@@ -59,7 +59,6 @@ O app GoBarber será utilizado pelos clientes que desejam realizar um agendament
 <h3 align="center">
   Tela de conclusão do agendamento realizado com sucesso.
 </h3>
-<br/>
 <h3 align="center">
   <img alt="GoStack" src="https://github.com/camilaseasky/appGoBarber/blob/master/docs/AppointmentCreated.png" />
 </h3>
