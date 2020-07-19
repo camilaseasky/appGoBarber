@@ -25,7 +25,7 @@ export const Container = styled.View`
 `;
 
 export const Header = styled.View`
-  padding: 24px;
+  padding: 15px;
   background: #28262e;
 
   flex-direction: row;

@@ -19,12 +19,12 @@ export const BackButton = styled.TouchableOpacity`
 `;
 
 export const UserAvatarButton = styled.TouchableOpacity`
-  margin-top: 32px;
+  margin-top: 110px;
 `;
 
 export const UserAvatar = styled.Image`
-  width: 186px;
-  height: 186px;
+  width: 150px;
+  height: 150px;
   border-radius: 93px;
   align-self: center;
 `;
