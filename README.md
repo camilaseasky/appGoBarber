@@ -20,14 +20,20 @@ O app GoBarber será utilizado pelos clientes que desejam realizar um agendament
 * @unform/core - @unform/mobile 
 ...
 
-### Telas do app:
+<h2> Telas do App </h2>
+<br/>
+<br/>
 
 <h3 align="center">
   Tela de login
 </h3>
 
+
 <img alt="GoStack" src="https://github.com/camilaseasky/appGoBarber/blob/master/docs/SignIn.png" />
 <img alt="GoStack" src="https://github.com/camilaseasky/appGoBarber/blob/master/docs/SignIn_2.png" />
+
+<br/>
+<br/>
 
 <h3 align="center">
   Dashboard com os prestadores de serviço (cabeleireiros)
@@ -35,18 +41,24 @@ O app GoBarber será utilizado pelos clientes que desejam realizar um agendament
 
 <img alt="GoStack" src="https://github.com/camilaseasky/appGoBarber/blob/master/docs/Dashboard.png" />
 
+<br/>
+<br/>
 <h3 align="center">
   Tela para seleção da data e horário do agendamento do serviço com o cabeleireiro selecionado no Dashboard.
 </h3>
 
 <img alt="GoStack" src="https://github.com/camilaseasky/appGoBarber/blob/master/docs/CreateAppointment.png" />
 
+<br/>
+<br/>
 <h3 align="center">
   Tela de conclusão do agendamento realizado com sucesso.
 </h3>
 
 <img alt="GoStack" src="https://github.com/camilaseasky/appGoBarber/blob/master/docs/AppointmentCreated.png" />
 
+<br/>
+<br/>
 <h3 align="center">
   Tela de visualização/alteração dos dados do profile do usuário bem como de seu avatar.
 </h3>
