@@ -51,8 +51,12 @@ O app GoBarber será utilizado pelos clientes que desejam realizar um agendament
 
 <h3 align="center">
   Tela de visualização/alteração dos dados do profile do usuário bem como de seu avatar.
-  <img alt="GoStack" src="https://github.com/camilaseasky/appGoBarber/blob/master/docs/Profile.png" />
 </h3>
+<br>
+<h3> 
+  <img alt="GoStack" src="https://github.com/camilaseasky/appGoBarber/blob/master/docs/Profile.png" />
+ </h3>
+ 
 
 
 
