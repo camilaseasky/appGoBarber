@@ -18,9 +18,10 @@ O app GoBarber será utilizado pelos clientes que desejam realizar um agendament
 * axios
 * styled-components
 * @unform/core - @unform/mobile 
-...
+* @react-native-community/async-storage
+* ...
 
-<h2> Telas do App </h2>
+### Telas do App:
 <br/>
 <br/>
 
